@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path=/home/jrberendt/Projects/website
+path=
 
 help () {
 echo "
